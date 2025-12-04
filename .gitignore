@@ -1,0 +1,4 @@
+*.weights
+*.swp
+__pycache__/
+*.avi
